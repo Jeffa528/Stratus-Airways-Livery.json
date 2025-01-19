@@ -1,7 +1,7 @@
 {
     "name": "Stratus Airways",
-    "color": "ffffff",
-    "bgcolor": "6000ff",
+    "color": "#FFFFFF",
+    "bgcolor": "#6000FF",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
