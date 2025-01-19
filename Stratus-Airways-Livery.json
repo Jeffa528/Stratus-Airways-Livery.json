@@ -32,7 +32,7 @@
                     "name": "Stratus Airways 737-700",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
-                        "https://i.ibb.co/ChbBkyR/Stratus-737-700-Livery.png"
+                        "https://i.ibb.co/8635r5h/Stratus-737-700.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -93,7 +93,7 @@
                     "name": "Stratus Airways A380-800",
                     "texture": [
                         "/models/aircraft/premium/a380/specular.jpg",
-                        "https://i.ibb.co/68NfBzk/Stratus-A380-800-Livery.png"
+                        "https://i.ibb.co/92B7BtM/Stratus-A380-800.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -166,7 +166,7 @@
                 {
                     "name": "Stratus Airways Concorde",
                     "texture": [
-                        "https://i.ibb.co/xHgM4w1/Stratus-Concorde-Livery.png"
+                        "https://i.ibb.co/G2X9Mcf/Stratus-Concorde.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -205,7 +205,7 @@
                     "name": "Stratus Airways A350-900",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
-                        "https://i.ibb.co/6rkj1Z8/Stratus-A350-900-Livery.png"
+                        "https://i.ibb.co/6wYz376/Stratus-A350-900.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -222,7 +222,7 @@
                     "name": "Stratus Airways 777-300ER",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://i.ibb.co/whZ9Q5q/Stratus-777-300-ER-Livery.png"
+                        "https://i.ibb.co/3BF949k/Stratus-777-300-ER.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -404,7 +404,7 @@
                 {
                     "name": "Stratus Airways A350-1000",
                     "texture": [
-                        "https://i.ibb.co/xqbFMpd/Stratus-A350-1000-Livery.png"
+                        "https://i.ibb.co/42ZZ6MF/Stratus-A350-1000.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -582,7 +582,7 @@
                 {
                     "name": "Stratus Airways 747-8i",
                     "texture": [
-                        "https://i.ibb.co/ZdFZn0V/Stratus-747-8i-Livery.png"
+                        "https://i.ibb.co/M284wbB/Stratus-747-8i.png"
                     ],
                     "credits": "Jeffa"
                 }
