@@ -29,10 +29,10 @@
             "name": "Boeing b737-700",
             "liveries": [
                 {
-                    "name": "Stratus Airways 737-700",
+                    "name": "Stratus 737-700",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
-                        "https://i.ibb.co/8635r5h/Stratus-737-700.png"
+                        "https://i.ibb.co/M51X8Z2/Stratus-737-700.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -90,10 +90,10 @@
             "name": "Airbus a380-800",
             "liveries": [
                 {
-                    "name": "Stratus Airways A380-800",
+                    "name": "Stratus A380-800",
                     "texture": [
                         "/models/aircraft/premium/a380/specular.jpg",
-                        "https://i.ibb.co/jwQ8QTp/Stratus-A380-800.png"
+                        "https://i.ibb.co/YTYzw3k/Stratus-A380-800.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -164,9 +164,9 @@
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
                 {
-                    "name": "Stratus Airways Concorde",
+                    "name": "Stratus Concorde",
                     "texture": [
-                        "https://i.ibb.co/G2X9Mcf/Stratus-Concorde.png"
+                        "https://i.ibb.co/8MmbD9Z/Stratus-Concorde.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -202,10 +202,10 @@
             "name": "Airbus a350-900",
             "liveries": [
                 {
-                    "name": "Stratus Airways A350-900",
+                    "name": "Stratus A350-900",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
-                        "https://i.ibb.co/6wYz376/Stratus-A350-900.png"
+                        "https://i.ibb.co/MfqHckJ/Stratus-A350-900.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -219,10 +219,10 @@
             "name": "Boeing b777-300ER",
             "liveries": [
                 {
-                    "name": "Stratus Airways 777-300ER",
+                    "name": "Stratus 777-300ER",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://i.ibb.co/3BF949k/Stratus-777-300-ER.png"
+                        "https://i.ibb.co/DRcNHVF/Stratus-777-300-ER.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -402,9 +402,9 @@
             "name": "Airbus a350-1000",
             "liveries": [
                 {
-                    "name": "Stratus Airways A350-1000",
+                    "name": "Stratus A350-1000",
                     "texture": [
-                        "https://i.ibb.co/42ZZ6MF/Stratus-A350-1000.png"
+                        "https://i.ibb.co/j6Sw3sf/Stratus-A350-1000.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -510,7 +510,15 @@
         },
         "4646": {
             "name": "Airbus a321neo",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "Stratus A321neo",
+                    "texture": [
+                        "https://i.ibb.co/q7G9CWR/Stratus-A321-XLR.png"
+                    ],
+                    "credits": "Jeffa"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
@@ -580,9 +588,9 @@
             "name": "Boeing b747-8I",
             "liveries": [
                 {
-                    "name": "Stratus Airways 747-8i",
+                    "name": "Stratus 747-8i",
                     "texture": [
-                        "https://i.ibb.co/M284wbB/Stratus-747-8i.png"
+                        "https://i.ibb.co/Zg961rK/Stratus-747-8i.png"
                     ],
                     "credits": "Jeffa"
                 }
