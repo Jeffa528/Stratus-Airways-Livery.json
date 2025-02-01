@@ -208,8 +208,14 @@
                         "https://i.ibb.co/MfqHckJ/Stratus-A350-900.png"
                     ],
                     "credits": "Jeffa"
-                }
-            ],
+                },
+                {
+                    "name": "Stratus A350 ULR",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://i.ibb.co/6RCQNF2k/Stratus-A350-ULR.png"
+                    ],
+                    "credits": "Jeffa"
             "labels": [
                 "Specular shader",
                 "Texture"
