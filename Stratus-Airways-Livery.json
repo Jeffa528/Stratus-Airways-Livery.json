@@ -33,7 +33,7 @@
             "name": "Boeing b737-700",
             "liveries": [
                 {
-                    "name": "Stratus 737-700",
+                    "name": "737-700",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "https://i.ibb.co/M51X8Z2/Stratus-737-700.png"
@@ -81,7 +81,7 @@
             "name": "Airbus a380-800",
             "liveries": [
                 {
-                    "name": "Stratus A380-800",
+                    "name": "A380-800",
                     "texture": [
                         "/models/aircraft/premium/a380/specular.jpg",
                         "https://i.ibb.co/YTYzw3k/Stratus-A380-800.png"
@@ -152,7 +152,7 @@
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
-                {"name": "Stratus Concorde",
+                {"name": "Concorde",
                     "texture": [
                         "https://i.ibb.co/8MmbD9Z/Stratus-Concorde.png"
                     ],
@@ -284,7 +284,7 @@
             "name": "Airbus a350-1000",
             "liveries": [
                 {
-                    "name": "Stratus A350-1000",
+                    "name": "A350-1000",
                     "texture": [
                         "https://i.ibb.co/j6Sw3sf/Stratus-A350-1000.png"
                     ],
@@ -441,7 +441,7 @@
             "name": "Airbus a350-900",
             "liveries": [
                 {
-                    "name": "Stratus A350-900",
+                    "name": "A350-900",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://i.ibb.co/MfqHckJ/Stratus-A350-900.png"
@@ -449,7 +449,7 @@
                     "credits": "Jeffa"
                 },
                 {
-                    "name": "Stratus A350 ULR",
+                    "name": "A350 ULR Greenworld",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://i.ibb.co/6RCQNF2k/Stratus-A350-ULR.png"
@@ -474,7 +474,7 @@
             "name": "Airbus a321neo",
             "liveries": [
                 {
-                    "name": "Stratus A321neo",
+                    "name": "A321neo",
                     "texture": [
                         "https://i.ibb.co/q7G9CWR/Stratus-A321-XLR.png"
                     ],
@@ -513,7 +513,7 @@
             "name": "Boeing b777-300ER",
             "liveries": [
                 {
-                    "name": "Stratus 777-300ER",
+                    "name": "777-300ER",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://i.ibb.co/DRcNHVF/Stratus-777-300-ER.png"
@@ -661,7 +661,7 @@
             "name": "Boeing b747-8I",
             "liveries": [
                 {
-                    "name": "Stratus 747-8i",
+                    "name": "747-8i",
                     "texture": [
                         "https://i.ibb.co/Zg961rK/Stratus-747-8i.png"
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -669,7 +669,7 @@
                     "credits": "Jeffa"
                 },
                 {
-                    "name": "Stratus 747-8i Sonic Special",
+                    "name": "747-8i Sonic",
                     "texture": [
                         "https://i.ibb.co/ZJMmL6T/Stratus-747-8i-Sonic-Special.png"
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
