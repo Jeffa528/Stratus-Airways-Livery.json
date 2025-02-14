@@ -405,7 +405,7 @@
                 {
                     "name": "A350-1000",
                     "texture": [
-                        "https://i.imgur.com/AsX7mZw.png"
+                        "https://i.ibb.co/j6Sw3sf/Stratus-A350-1000.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -512,18 +512,11 @@
             "name": "Airbus a321neo",
             "liveries": [
                 {
-                    "name": "Pacific Airlines Airbus A321-253N, LR, XLR",
+                    "name": "A321XLR",
                     "texture": [
-                        "https://i.imgur.com/AydlS1i.png"
+                        "https://i.ibb.co/q7G9CWR/Stratus-A321-XLR.png"
                     ],
-                    "credits": "Bill Yu"
-                },
-                {
-                    "name": "Pacific Airlines Airbus A321XLR C-AXLR",
-                    "texture": [
-                        "https://i.imgur.com/wFUHHyq.png"
-                    ],
-                    "credits": "Bill Yu"
+                    "credits": "Jeffa"
                 }
             ],
             "labels": [
@@ -593,7 +586,22 @@
         },
         "5193": {
             "name": "Boeing b747-8I",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "747-8i",
+                    "texture": [
+                        "https://i.ibb.co/Zg961rK/Stratus-747-8i.png",
+                    ],
+                    "credits": "Jeffa"
+                },
+                {
+                    "name": "747-8i Sonic Special",
+                    "texture": [
+                        "https://i.ibb.co/Zg961rK/Stratus-747-8i.png",                 
+                    ],
+                    "credits": "Jeffa"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
