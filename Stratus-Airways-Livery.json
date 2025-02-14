@@ -665,13 +665,15 @@
                     "name": "747-8i",
                     "texture": [
                         "https://i.ibb.co/Zg961rK/Stratus-747-8i.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
                     ],
                     "credits": "Jeffa"
                 },
                 {
                     "name": "747-8i Sonic Special",
                     "texture": [
-                        "https://i.ibb.co/Zg961rK/Stratus-747-8i.png",                 
+                        "https://i.ibb.co/Zg961rK/Stratus-747-8i.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
                     ],
                     "credits": "Jeffa"
                 }
