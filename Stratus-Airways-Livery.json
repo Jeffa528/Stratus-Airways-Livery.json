@@ -707,6 +707,14 @@
             ],
             "labels": [
                 "Texture"
+            }
+        },
+        "5203": {
+            "name": "Boeing b737-600",
+            "liveries":[
+            ],
+            "labels": [
+                "Texture"
             ]
         }
     }
