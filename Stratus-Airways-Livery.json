@@ -676,13 +676,19 @@
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
                     ],
                     "credits": "Jeffa"
-                }
+                },
+                {
+                    "name": "747-8i Nezha Special",
+                    "texture": [
+                        "https://i.ibb.co/8ph45YR/Stratus-747-8-Nezha.png"
+                        "https://i.ibb.co/ymnK6s2X/Stratus-747-8i-Nezha-Wing.png"
+                    ],
+                    "credits": "Jeffa"
             ],
             "labels": [
                 "Texture",
                 "Wing texture"
             ]
-            
         },
         "2857": {
             "name": "Lokheed Martin F22 Raptor",
