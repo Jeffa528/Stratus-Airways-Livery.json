@@ -282,6 +282,13 @@
                         "https://i.ibb.co/j6Sw3sf/Stratus-A350-1000.png"
                     ],
                     "credits": "Jeffa"
+                },
+                {
+                    "name": "A350-1000F",
+                    "texture": [
+                        "https://i.ibb.co/JRTrRjYz/Stratus-A350-1000-F.png"
+                    ],
+                    "credits": "Jeffa"
                 }
             ],
             "labels": [
